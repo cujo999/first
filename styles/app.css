@@ -7,9 +7,6 @@ body {
     
 .heading {
     background-image: url("../styles/image.png");
-    text-align: center;
-    box-sizing: border-box;
-    margin: 0 auto;
 }
 
 tbody tr:nth-child(odd) {
